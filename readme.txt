@@ -10,4 +10,5 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 add merge
+wait for bug101
 fix the bug-101
